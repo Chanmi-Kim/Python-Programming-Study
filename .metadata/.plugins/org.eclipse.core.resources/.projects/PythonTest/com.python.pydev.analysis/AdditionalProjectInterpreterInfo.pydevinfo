@@ -1,0 +1,32 @@
+-- VERSION_5
+-- START DISKCACHE_2
+P:\class\python\.metadata\.plugins\org.eclipse.core.resources\.projects\PythonTest\com.python.pydev.analysis\v2_indexcache
+ex02|1564974292529780000|P:\class\python\PythonTest\src\ex02.py
+hello|1564965238758082000|P:\class\python\PythonTest\src\hello.py
+ex01|1564971555455430000|P:\class\python\PythonTest\src\ex01.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=ex02
+4=ex01
+1=P:\class\python\PythonTest\src\ex02.py
+3=P:\class\python\PythonTest\src\ex01.py
+-- END DICTIONARY
+-- START TREE 1
+12
+a|1|a!1^33#1*19@
+b|1|b!1^34#1*19@
+che|1|check!3^98#1*35@
+f|1|f!1^51#1*19@
+hel|1|hello!3^110#5*34@
+lin|1|lines!1^70#1*19@
+nam|1|name!3^103#5*35@
+num|1|num!3^97#1*35@
+res|1|result!3^68#1*35@
+sum|2|sum!3^63#5*34@sum_many!3^84#5*34@
+tes|1|test!3^57#5*34@
+txt|0|
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
