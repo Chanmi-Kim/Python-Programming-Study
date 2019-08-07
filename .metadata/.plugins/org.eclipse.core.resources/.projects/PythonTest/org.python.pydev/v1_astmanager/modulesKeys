@@ -1,4 +1,17 @@
 MODULES_MANAGER_V2
+com.__init__|P:\class\python\PythonTest\com\__init__.py
+com.test.__init__|P:\class\python\PythonTest\com\test\__init__.py
+com.test.python.MyUtil|P:\class\python\PythonTest\com\test\python\MyUtil.py
+com.test.python.__init__|P:\class\python\PythonTest\com\test\python\__init__.py
 ex01|P:\class\python\PythonTest\src\ex01.py
 ex02|P:\class\python\PythonTest\src\ex02.py
+ex03|P:\class\python\PythonTest\src\ex03.py
+ex04|P:\class\python\PythonTest\src\ex04.py
+ex05|P:\class\python\PythonTest\src\ex05.py
+ex06|P:\class\python\PythonTest\src\ex06.py
+ex07|P:\class\python\PythonTest\src\ex07.py
+ex08|P:\class\python\PythonTest\src\ex08.py
+ex09|P:\class\python\PythonTest\src\ex09.py
 hello|P:\class\python\PythonTest\src\hello.py
+mod1|P:\class\python\PythonTest\src\mod1.py
+test|P:\class\python\PythonTest\src\test.py

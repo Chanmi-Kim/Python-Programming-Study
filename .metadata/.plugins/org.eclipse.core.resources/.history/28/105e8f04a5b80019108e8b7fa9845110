@@ -1,0 +1,33 @@
+package com.test;
+
+import java.util.List;
+import java.util.Arrays;
+
+public class Sort {
+	
+	public static void main(String[] args) {
+		
+		List<String> list = Arrays.asList("4", "22", "310", "32", "23023", "54", "234");
+		
+		System.out.println(list.toString());
+		
+		
+		Item item = new Item();
+		System.out.println(item);
+		
+		
+	}
+
+}
+
+class Item {
+	
+	private String num = "숫자";
+	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return super.toString();
+	}
+	
+}

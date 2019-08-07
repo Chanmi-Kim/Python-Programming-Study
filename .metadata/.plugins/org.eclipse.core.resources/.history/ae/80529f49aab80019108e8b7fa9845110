@@ -1,0 +1,10 @@
+
+# 패키지(com.test.python) > 모듈(MyUtil.py)
+
+# 모듈의 구성요소
+# 1. 전역 변수 : X
+# 2. 전역 함수 : O
+# 3. 클래스 : O
+
+def hello():
+    return '안녕하세요.'

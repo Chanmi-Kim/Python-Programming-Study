@@ -1,0 +1,47 @@
+# ex09.py
+
+import turtle as t
+
+t.shape('turtle')
+
+# 거북이(3시 방향)
+# 
+# t.forward(100)
+# t.right(90)
+# t.forward(100)
+# t.right(90)
+# t.forward(100)
+# t.right(90)
+# t.forward(100)
+
+# for i in range(100):
+#     t.forward(i * 2)
+#     t.right(60)
+#     t.forward(i * 3)
+#     t.left(40)
+
+t.pensize(10)
+t.color('red')
+t.circle(100)
+t.fillcolor('yellow')
+
+
+input('')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

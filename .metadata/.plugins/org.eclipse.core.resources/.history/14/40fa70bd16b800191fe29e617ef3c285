@@ -1,0 +1,12 @@
+package com.test;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		String[] words = [hot, dot, dog, lot, log, cog];
+		
+		
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.test;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		List<String> words = Arrays.asList("hot", "dot", "dog", "lot", "log", "cog")
+		String begin = "hit";
+		String target = "cog";
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.test;
+
+import java.util.Arrays;
+
+public class Sort {
+	
+	public static void main(String[] args) {
+		
+		ArrayList<String> list = Arrays.asList(4, 22, 310, 32, 23023, 54, 234);
+		
+	}
+
+}

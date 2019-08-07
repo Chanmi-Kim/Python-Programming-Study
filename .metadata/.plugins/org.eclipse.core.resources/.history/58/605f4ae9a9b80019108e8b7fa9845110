@@ -1,0 +1,6 @@
+# ex08.py
+
+# 모듈(Module) : 재사용 목적 > 기능 단위
+# 패키지(Package) : 모듈 관리 목적 > 컨테이너(폴더)
+
+# com.test.python 패키지 생성 > MyUtil.py

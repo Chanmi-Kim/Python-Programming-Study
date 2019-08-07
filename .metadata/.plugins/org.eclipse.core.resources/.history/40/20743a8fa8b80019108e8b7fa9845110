@@ -1,0 +1,7 @@
+# ex07.py
+
+from mod1 import mysum
+
+a = 20
+b = 10
+

@@ -1,0 +1,10 @@
+# ex09.py
+
+import turtle as t
+
+# 거북이(3시 방향)
+# 
+t.forward(100)
+
+
+input('')

@@ -1,0 +1,20 @@
+package com.test;
+
+import java.util.ArrayList;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		String[] data = { "hot", "dot", "dog", "lot", "log", "cog" };
+		ArrayList<String> words = new ArrayList<String>();
+		
+		String begin = "hit";
+		String target = "cog";
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,26 @@
+package com.test;
+
+import java.util.ArrayList;
+
+public class Test {
+	
+	public static void main(String[] args) {
+		
+		ArrayList<String> words = new ArrayList<String>();
+		
+		words.add("hot");
+		words.add("dot");
+		words.add("dog");
+		words.add("lot");
+		words.add("log");
+		words.add("log");
+		
+		String begin = "hit";
+		String target = "cog";
+		
+		
+		
+		
+	}
+
+}

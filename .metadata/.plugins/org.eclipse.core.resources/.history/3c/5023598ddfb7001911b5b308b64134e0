@@ -1,0 +1,38 @@
+# ex03.py
+
+# 집합 자료형
+# - 배열(Array) : 파이썬에는 없음
+
+# 튜플, Tuple
+# - 리스트 계열
+tuple1 = (10, 20, 30)
+print(tuple1)
+print(tuple1[0])
+print(tuple1[1])
+print(tuple1[2])
+# print(tuple1[3]) # tuple index out of range
+print(type(tuple1)) # 스크립트 언어들은 반드시 자료형 확인하는 습관
+
+# 루프 탐색
+# 파이썬 루프 제어문
+# for in 문 = 자바스크립트(foreach문) <> 자바(foreach 문)
+# 파이썬의 for문 -> 무조건 배열 탐색
+for n in tuple1:
+    print(n)
+
+# 튜플의 특징 : 읽기 전용
+tuple1[0] = 100
+
+
+
+
+
+
+
+
+
+
+
+
+
+
